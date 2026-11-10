@@ -1,0 +1,13 @@
+station_id,station,temperature_unit,data_type
+ST01,Adyar,C,synthetic
+ST02,Guindy,C,synthetic
+ST03,T_Nagar,C,synthetic
+ST04,Anna_Nagar,C,synthetic
+ST05,Velachery,C,synthetic
+ST06,Perungudi,C,synthetic
+ST07,Royapuram,C,synthetic
+ST08,Manali,C,synthetic
+ST09,Alandur,C,synthetic
+ST10,Kodambakkam,C,synthetic
+ST11,Nungambakkam,F,synthetic
+ST12,Thiruvottiyur,F,synthetic

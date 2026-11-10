@@ -1,0 +1,151 @@
+source_file,line_number,station_id,date,issue,raw_record
+data\raw\2026-10-01\ST07_Royapuram.csv,6,ST07,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST07', 'station': 'Royapuram', 'date': '2026-10-01', 'hour': '4', 'pm25': 'NA', 'pm10': '117.47', 'no2': '41.68', 'temperature': '27.89', 'temperature_unit': 'C'}"
+data\raw\2026-10-01\ST08_Manali.csv,10,ST08,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST08', 'station': 'Manali', 'date': '2026-10-01', 'hour': '8', 'pm25': 'NA', 'pm10': '184.91', 'no2': '79.76', 'temperature': '32.54', 'temperature_unit': 'C'}"
+data\raw\2026-10-01\ST09_Alandur.csv,9,ST09,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-01', 'hour': '7', 'pm25': 'NA', 'pm10': '142.88', 'no2': '53.72', 'temperature': '24.41', 'temperature_unit': 'C'}"
+data\raw\2026-10-01\ST09_Alandur.csv,13,ST09,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-01', 'hour': '11', 'pm25': '', 'pm10': '81.79', 'no2': '33.17', 'temperature': '30.68', 'temperature_unit': 'C'}"
+data\raw\2026-10-01\ST10_Kodambakkam.csv,9,ST10,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST10', 'station': 'Kodambakkam', 'date': '2026-10-01', 'hour': '7', 'pm25': 'NA', 'pm10': '114.15', 'no2': '48.56', 'temperature': '30.71', 'temperature_unit': 'C'}"
+data\raw\2026-10-01\ST12_Thiruvottiyur.csv,16,ST12,2026-10-01,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST12', 'station': 'Thiruvottiyur', 'date': '2026-10-01', 'hour': '14', 'pm25': '', 'pm10': '93.69', 'no2': '27.80', 'temperature': '96.02', 'temperature_unit': 'F'}"
+data\raw\2026-10-02\ST05_Velachery.csv,10,ST05,2026-10-02,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST05', 'station': 'Velachery', 'date': '2026-10-02', 'hour': '8', 'pm25': 'NA', 'pm10': '139.28', 'no2': '61.45', 'temperature': '29.51', 'temperature_unit': 'C'}"
+data\raw\2026-10-04\ST02_Guindy.csv,20,ST02,2026-10-04,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-04', 'hour': '18', 'pm25': '', 'pm10': '192.63', 'no2': '76.72', 'temperature': '30.47', 'temperature_unit': 'C'}"
+data\raw\2026-10-05\ST04_Anna_Nagar.csv,22,ST04,2026-10-05,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-05', 'hour': '20', 'pm25': '', 'pm10': '129.78', 'no2': '39.74', 'temperature': '31.47', 'temperature_unit': 'C'}"
+data\raw\2026-10-05\ST08_Manali.csv,2,ST08,2026-10-05,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST08', 'station': 'Manali', 'date': '2026-10-05', 'hour': '0', 'pm25': 'NA', 'pm10': '162.08', 'no2': '65.19', 'temperature': '29.66', 'temperature_unit': 'C'}"
+data\raw\2026-10-06\ST02_Guindy.csv,26,ST02,2026-10-06,duplicate station/date/hour record,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-06', 'hour': '8', 'pm25': '93.68', 'pm10': '162.22', 'no2': '65.80', 'temperature': '30.50', 'temperature_unit': 'C'}"
+data\raw\2026-10-06\ST07_Royapuram.csv,26,ST07,2026-10-06,duplicate station/date/hour record,"{'station_id': 'ST07', 'station': 'Royapuram', 'date': '2026-10-06', 'hour': '8', 'pm25': '74.62', 'pm10': '136.81', 'no2': '55.03', 'temperature': '33.35', 'temperature_unit': 'C'}"
+data\raw\2026-10-07\ST02_Guindy.csv,14,ST02,2026-10-07,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-07', 'hour': '12', 'pm25': '', 'pm10': '126.70', 'no2': '47.98', 'temperature': 'NA', 'temperature_unit': 'C'}"
+data\raw\2026-10-07\ST04_Anna_Nagar.csv,13,ST04,2026-10-07,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-07', 'hour': '11', 'pm25': 'NA', 'pm10': '124.20', 'no2': '40.74', 'temperature': '31.41', 'temperature_unit': 'C'}"
+data\raw\2026-10-08\ST03_T_Nagar.csv,3,ST03,2026-10-08,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST03', 'station': 'T_Nagar', 'date': '2026-10-08', 'hour': '1', 'pm25': 'NA', 'pm10': '142.25', 'no2': '44.73', 'temperature': '26.60', 'temperature_unit': 'C'}"
+data\raw\2026-10-08\ST09_Alandur.csv,7,ST09,2026-10-08,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-08', 'hour': '5', 'pm25': '', 'pm10': '119.82', 'no2': '30.04', 'temperature': '33.57', 'temperature_unit': 'C'}"
+data\raw\2026-10-09\ST03_T_Nagar.csv,23,ST03,2026-10-09,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST03', 'station': 'T_Nagar', 'date': '2026-10-09', 'hour': '21', 'pm25': 'NA', 'pm10': '123.55', 'no2': '56.80', 'temperature': '28.37', 'temperature_unit': 'C'}"
+data\raw\2026-10-09\ST04_Anna_Nagar.csv,20,ST04,2026-10-09,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-09', 'hour': '18', 'pm25': '', 'pm10': '124.75', 'no2': '67.46', 'temperature': '28.37', 'temperature_unit': 'C'}"
+data\raw\2026-10-09\ST09_Alandur.csv,16,ST09,2026-10-09,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-09', 'hour': '14', 'pm25': '', 'pm10': '104.03', 'no2': '22.69', 'temperature': '35.72', 'temperature_unit': 'C'}"
+data\raw\2026-10-09\ST12_Thiruvottiyur.csv,21,ST12,2026-10-09,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST12', 'station': 'Thiruvottiyur', 'date': '2026-10-09', 'hour': '19', 'pm25': 'NA', 'pm10': '163.82', 'no2': '70.78', 'temperature': '86.07', 'temperature_unit': 'F'}"
+data\raw\2026-10-11\ST11_Nungambakkam.csv,8,ST11,2026-10-11,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST11', 'station': 'Nungambakkam', 'date': '2026-10-11', 'hour': '6', 'pm25': 'NA', 'pm10': '117.19', 'no2': '31.69', 'temperature': '90.88', 'temperature_unit': 'F'}"
+data\raw\2026-10-12\ST02_Guindy.csv,8,ST02,2026-10-12,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-12', 'hour': '6', 'pm25': 'NA', 'pm10': '136.27', 'no2': '43.81', 'temperature': '29.55', 'temperature_unit': 'C'}"
+data\raw\2026-10-12\ST09_Alandur.csv,11,ST09,2026-10-12,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-12', 'hour': '9', 'pm25': '', 'pm10': '115.41', 'no2': '49.82', 'temperature': '35.00', 'temperature_unit': 'C'}"
+data\raw\2026-10-12\ST11_Nungambakkam.csv,8,ST11,2026-10-12,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST11', 'station': 'Nungambakkam', 'date': '2026-10-12', 'hour': '6', 'pm25': 'NA', 'pm10': '115.23', 'no2': '28.41', 'temperature': '80.93', 'temperature_unit': 'F'}"
+data\raw\2026-10-13\ST02_Guindy.csv,14,ST02,2026-10-13,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-13', 'hour': '12', 'pm25': 'NA', 'pm10': '143.35', 'no2': '38.92', 'temperature': '34.69', 'temperature_unit': 'C'}"
+data\raw\2026-10-14\ST01_Adyar.csv,23,ST01,2026-10-14,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST01', 'station': 'Adyar', 'date': '2026-10-14', 'hour': '21', 'pm25': 'NA', 'pm10': '67.85', 'no2': '33.77', 'temperature': '29.58', 'temperature_unit': 'C'}"
+data\raw\2026-10-14\ST05_Velachery.csv,17,ST05,2026-10-14,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST05', 'station': 'Velachery', 'date': '2026-10-14', 'hour': '15', 'pm25': '', 'pm10': '117.62', 'no2': '47.60', 'temperature': '29.84', 'temperature_unit': 'C'}"
+data\raw\2026-10-14\ST11_Nungambakkam.csv,9,ST11,2026-10-14,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST11', 'station': 'Nungambakkam', 'date': '2026-10-14', 'hour': '7', 'pm25': 'NA', 'pm10': '149.36', 'no2': '68.35', 'temperature': '85.50', 'temperature_unit': 'F'}"
+data\raw\2026-10-15\ST01_Adyar.csv,12,ST01,2026-10-15,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST01', 'station': 'Adyar', 'date': '2026-10-15', 'hour': '10', 'pm25': 'NA', 'pm10': '70.27', 'no2': '48.45', 'temperature': '30.62', 'temperature_unit': 'C'}"
+data\raw\2026-10-15\ST02_Guindy.csv,16,ST02,2026-10-15,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-15', 'hour': '14', 'pm25': '', 'pm10': '188.45', 'no2': '59.80', 'temperature': '31.44', 'temperature_unit': 'C'}"
+data\raw\2026-10-16\ST03_T_Nagar.csv,22,ST03,2026-10-16,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST03', 'station': 'T_Nagar', 'date': '2026-10-16', 'hour': '20', 'pm25': '', 'pm10': '152.84', 'no2': '71.46', 'temperature': '27.87', 'temperature_unit': 'C'}"
+data\raw\2026-10-16\ST06_Perungudi.csv,21,ST06,2026-10-16,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST06', 'station': 'Perungudi', 'date': '2026-10-16', 'hour': '19', 'pm25': '', 'pm10': '144.79', 'no2': '59.39', 'temperature': '35.30', 'temperature_unit': 'C'}"
+data\raw\2026-10-17\ST04_Anna_Nagar.csv,9,ST04,2026-10-17,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-17', 'hour': '7', 'pm25': '', 'pm10': '116.96', 'no2': '50.74', 'temperature': '27.26', 'temperature_unit': 'C'}"
+data\raw\2026-10-18\ST07_Royapuram.csv,3,ST07,2026-10-18,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST07', 'station': 'Royapuram', 'date': '2026-10-18', 'hour': '1', 'pm25': 'NA', 'pm10': '125.50', 'no2': '45.97', 'temperature': '29.72', 'temperature_unit': 'C'}"
+data\raw\2026-10-18\ST11_Nungambakkam.csv,22,ST11,2026-10-18,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST11', 'station': 'Nungambakkam', 'date': '2026-10-18', 'hour': '20', 'pm25': '', 'pm10': '164.38', 'no2': '55.80', 'temperature': '90.30', 'temperature_unit': 'F'}"
+data\raw\2026-10-19\ST04_Anna_Nagar.csv,23,ST04,2026-10-19,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-19', 'hour': '21', 'pm25': 'NA', 'pm10': '93.58', 'no2': '38.17', 'temperature': '31.65', 'temperature_unit': 'C'}"
+data\raw\2026-10-19\ST08_Manali.csv,22,ST08,2026-10-19,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST08', 'station': 'Manali', 'date': '2026-10-19', 'hour': '20', 'pm25': 'NA', 'pm10': '184.00', 'no2': '76.57', 'temperature': '28.78', 'temperature_unit': 'C'}"
+data\raw\2026-10-20\ST04_Anna_Nagar.csv,26,ST04,2026-10-20,duplicate station/date/hour record,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-20', 'hour': '17', 'pm25': '59.20', 'pm10': '99.15', 'no2': '23.02', 'temperature': '30.36', 'temperature_unit': 'C'}"
+data\raw\2026-10-21\ST04_Anna_Nagar.csv,14,ST04,2026-10-21,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST04', 'station': 'Anna_Nagar', 'date': '2026-10-21', 'hour': '12', 'pm25': 'NA', 'pm10': '138.46', 'no2': '39.97', 'temperature': '28.65', 'temperature_unit': 'C'}"
+data\raw\2026-10-21\ST06_Perungudi.csv,6,ST06,2026-10-21,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST06', 'station': 'Perungudi', 'date': '2026-10-21', 'hour': '4', 'pm25': 'NA', 'pm10': '80.45', 'no2': '16.19', 'temperature': '29.03', 'temperature_unit': 'C'}"
+data\raw\2026-10-21\ST11_Nungambakkam.csv,5,ST11,2026-10-21,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST11', 'station': 'Nungambakkam', 'date': '2026-10-21', 'hour': '3', 'pm25': '', 'pm10': '103.47', 'no2': '44.53', 'temperature': '89.56', 'temperature_unit': 'F'}"
+data\raw\2026-10-22\ST01_Adyar.csv,17,ST01,2026-10-22,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST01', 'station': 'Adyar', 'date': '2026-10-22', 'hour': '15', 'pm25': '', 'pm10': '76.74', 'no2': '2.77', 'temperature': '32.67', 'temperature_unit': 'C'}"
+data\raw\2026-10-22\ST05_Velachery.csv,5,ST05,2026-10-22,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST05', 'station': 'Velachery', 'date': '2026-10-22', 'hour': '3', 'pm25': '', 'pm10': '81.66', 'no2': '35.72', 'temperature': '29.19', 'temperature_unit': 'C'}"
+data\raw\2026-10-22\ST07_Royapuram.csv,11,ST07,2026-10-22,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST07', 'station': 'Royapuram', 'date': '2026-10-22', 'hour': '9', 'pm25': 'NA', 'pm10': '153.58', 'no2': '63.94', 'temperature': '31.07', 'temperature_unit': 'C'}"
+data\raw\2026-10-23\ST09_Alandur.csv,17,ST09,2026-10-23,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-23', 'hour': '15', 'pm25': 'NA', 'pm10': '72.27', 'no2': '29.63', 'temperature': '33.08', 'temperature_unit': 'C'}"
+data\raw\2026-10-25\ST06_Perungudi.csv,8,ST06,2026-10-25,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST06', 'station': 'Perungudi', 'date': '2026-10-25', 'hour': '6', 'pm25': '', 'pm10': '139.55', 'no2': '59.73', 'temperature': '28.50', 'temperature_unit': 'C'}"
+data\raw\2026-10-26\ST05_Velachery.csv,18,ST05,2026-10-26,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST05', 'station': 'Velachery', 'date': '2026-10-26', 'hour': '16', 'pm25': 'NA', 'pm10': '132.11', 'no2': '39.14', 'temperature': '32.08', 'temperature_unit': 'C'}"
+data\raw\2026-10-26\ST12_Thiruvottiyur.csv,7,ST12,2026-10-26,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST12', 'station': 'Thiruvottiyur', 'date': '2026-10-26', 'hour': '5', 'pm25': 'NA', 'pm10': '126.99', 'no2': '29.00', 'temperature': '88.46', 'temperature_unit': 'F'}"
+data\raw\2026-10-27\ST07_Royapuram.csv,3,ST07,2026-10-27,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST07', 'station': 'Royapuram', 'date': '2026-10-27', 'hour': '1', 'pm25': 'NA', 'pm10': '130.32', 'no2': '54.33', 'temperature': '26.07', 'temperature_unit': 'C'}"
+data\raw\2026-10-27\ST10_Kodambakkam.csv,8,ST10,2026-10-27,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST10', 'station': 'Kodambakkam', 'date': '2026-10-27', 'hour': '6', 'pm25': 'NA', 'pm10': '128.35', 'no2': '31.21', 'temperature': '27.35', 'temperature_unit': 'C'}"
+data\raw\2026-10-28\ST09_Alandur.csv,3,ST09,2026-10-28,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-28', 'hour': '1', 'pm25': 'NA', 'pm10': '87.39', 'no2': '27.44', 'temperature': '28.80', 'temperature_unit': 'C'}"
+data\raw\2026-10-28\ST09_Alandur.csv,5,ST09,2026-10-28,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST09', 'station': 'Alandur', 'date': '2026-10-28', 'hour': '3', 'pm25': 'NA', 'pm10': '85.55', 'no2': '23.16', 'temperature': '28.91', 'temperature_unit': 'C'}"
+data\raw\2026-10-29\ST06_Perungudi.csv,20,ST06,2026-10-29,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST06', 'station': 'Perungudi', 'date': '2026-10-29', 'hour': '18', 'pm25': '', 'pm10': '155.79', 'no2': '74.21', 'temperature': '30.85', 'temperature_unit': 'C'}"
+data\raw\2026-10-29\ST08_Manali.csv,6,ST08,2026-10-29,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST08', 'station': 'Manali', 'date': '2026-10-29', 'hour': '4', 'pm25': '', 'pm10': '137.41', 'no2': '57.99', 'temperature': '27.17', 'temperature_unit': 'C'}"
+data\raw\2026-10-30\ST01_Adyar.csv,4,ST01,2026-10-30,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST01', 'station': 'Adyar', 'date': '2026-10-30', 'hour': '2', 'pm25': 'NA', 'pm10': '94.46', 'no2': '30.42', 'temperature': '32.27', 'temperature_unit': 'C'}"
+data\raw\2026-10-30\ST02_Guindy.csv,17,ST02,2026-10-30,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST02', 'station': 'Guindy', 'date': '2026-10-30', 'hour': '15', 'pm25': 'NA', 'pm10': '138.49', 'no2': '49.19', 'temperature': '29.18', 'temperature_unit': 'C'}"
+data\raw\2026-10-30\ST03_T_Nagar.csv,15,ST03,2026-10-30,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST03', 'station': 'T_Nagar', 'date': '2026-10-30', 'hour': '13', 'pm25': 'NA', 'pm10': '131.56', 'no2': '36.60', 'temperature': '35.56', 'temperature_unit': 'C'}"
+data\raw\2026-10-30\ST10_Kodambakkam.csv,17,ST10,2026-10-30,missing or non-numeric PM2.5; row dropped,"{'station_id': 'ST10', 'station': 'Kodambakkam', 'date': '2026-10-30', 'hour': '15', 'pm25': '', 'pm10': '123.71', 'no2': '39.65', 'temperature': '33.89', 'temperature_unit': 'C'}"
+data\raw\2026-10-04\ST01_Adyar.csv,0,ST01,2026-10-04,PM10 missing/invalid; imputed with station median 83.34,
+data\raw\2026-10-29\ST01_Adyar.csv,0,ST01,2026-10-29,PM10 missing/invalid; imputed with station median 83.34,
+data\raw\2026-10-24\ST01_Adyar.csv,0,ST01,2026-10-24,NO2 missing/invalid; imputed with station median 30.88,
+data\raw\2026-10-05\ST01_Adyar.csv,0,ST01,2026-10-05,temperature missing/invalid; filled with previous value (35.70 C),
+data\raw\2026-10-29\ST01_Adyar.csv,0,ST01,2026-10-29,temperature missing/invalid; filled with previous value (27.45 C),
+data\raw\2026-10-14\ST02_Guindy.csv,0,ST02,2026-10-14,PM10 missing/invalid; imputed with station median 149.60,
+data\raw\2026-10-27\ST02_Guindy.csv,0,ST02,2026-10-27,PM10 missing/invalid; imputed with station median 149.60,
+data\raw\2026-10-29\ST02_Guindy.csv,0,ST02,2026-10-29,PM10 missing/invalid; imputed with station median 149.60,
+data\raw\2026-10-01\ST02_Guindy.csv,0,ST02,2026-10-01,NO2 missing/invalid; imputed with station median 54.91,
+data\raw\2026-10-23\ST02_Guindy.csv,0,ST02,2026-10-23,NO2 missing/invalid; imputed with station median 54.91,
+data\raw\2026-10-02\ST02_Guindy.csv,0,ST02,2026-10-02,temperature missing/invalid; filled with previous value (28.60 C),
+data\raw\2026-10-19\ST02_Guindy.csv,0,ST02,2026-10-19,temperature missing/invalid; filled with previous value (33.60 C),
+data\raw\2026-10-22\ST02_Guindy.csv,0,ST02,2026-10-22,temperature missing/invalid; filled with previous value (32.42 C),
+data\raw\2026-10-07\ST03_T_Nagar.csv,0,ST03,2026-10-07,NO2 missing/invalid; imputed with station median 50.59,
+data\raw\2026-10-20\ST03_T_Nagar.csv,0,ST03,2026-10-20,temperature missing/invalid; filled with previous value (29.77 C),
+data\raw\2026-10-17\ST04_Anna_Nagar.csv,0,ST04,2026-10-17,PM10 missing/invalid; imputed with station median 103.75,
+data\raw\2026-10-20\ST04_Anna_Nagar.csv,0,ST04,2026-10-20,PM10 missing/invalid; imputed with station median 103.75,
+data\raw\2026-10-20\ST04_Anna_Nagar.csv,0,ST04,2026-10-20,NO2 missing/invalid; imputed with station median 38.39,
+data\raw\2026-10-27\ST04_Anna_Nagar.csv,0,ST04,2026-10-27,NO2 missing/invalid; imputed with station median 38.39,
+data\raw\2026-10-27\ST04_Anna_Nagar.csv,0,ST04,2026-10-27,NO2 missing/invalid; imputed with station median 38.39,
+data\raw\2026-10-29\ST04_Anna_Nagar.csv,0,ST04,2026-10-29,NO2 missing/invalid; imputed with station median 38.39,
+data\raw\2026-10-03\ST04_Anna_Nagar.csv,0,ST04,2026-10-03,temperature missing/invalid; filled with previous value (31.98 C),
+data\raw\2026-10-04\ST04_Anna_Nagar.csv,0,ST04,2026-10-04,temperature missing/invalid; filled with previous value (29.84 C),
+data\raw\2026-10-06\ST04_Anna_Nagar.csv,0,ST04,2026-10-06,temperature missing/invalid; filled with previous value (31.01 C),
+data\raw\2026-10-15\ST04_Anna_Nagar.csv,0,ST04,2026-10-15,temperature missing/invalid; filled with previous value (29.28 C),
+data\raw\2026-10-24\ST04_Anna_Nagar.csv,0,ST04,2026-10-24,temperature missing/invalid; filled with previous value (29.55 C),
+data\raw\2026-10-29\ST04_Anna_Nagar.csv,0,ST04,2026-10-29,temperature missing/invalid; filled with previous value (30.33 C),
+data\raw\2026-10-29\ST05_Velachery.csv,0,ST05,2026-10-29,PM10 missing/invalid; imputed with station median 114.76,
+data\raw\2026-10-12\ST05_Velachery.csv,0,ST05,2026-10-12,NO2 missing/invalid; imputed with station median 41.53,
+data\raw\2026-10-21\ST05_Velachery.csv,0,ST05,2026-10-21,NO2 missing/invalid; imputed with station median 41.53,
+data\raw\2026-10-31\ST05_Velachery.csv,0,ST05,2026-10-31,NO2 missing/invalid; imputed with station median 41.53,
+data\raw\2026-10-03\ST06_Perungudi.csv,0,ST06,2026-10-03,PM10 missing/invalid; imputed with station median 126.12,
+data\raw\2026-10-07\ST06_Perungudi.csv,0,ST06,2026-10-07,PM10 missing/invalid; imputed with station median 126.12,
+data\raw\2026-10-11\ST06_Perungudi.csv,0,ST06,2026-10-11,PM10 missing/invalid; imputed with station median 126.12,
+data\raw\2026-10-13\ST06_Perungudi.csv,0,ST06,2026-10-13,NO2 missing/invalid; imputed with station median 46.75,
+data\raw\2026-10-20\ST06_Perungudi.csv,0,ST06,2026-10-20,NO2 missing/invalid; imputed with station median 46.75,
+data\raw\2026-10-06\ST06_Perungudi.csv,0,ST06,2026-10-06,temperature missing/invalid; filled with previous value (30.94 C),
+data\raw\2026-10-07\ST06_Perungudi.csv,0,ST06,2026-10-07,temperature missing/invalid; filled with previous value (32.94 C),
+data\raw\2026-10-15\ST06_Perungudi.csv,0,ST06,2026-10-15,temperature missing/invalid; filled with previous value (30.82 C),
+data\raw\2026-10-28\ST06_Perungudi.csv,0,ST06,2026-10-28,temperature missing/invalid; filled with previous value (26.99 C),
+data\raw\2026-10-07\ST07_Royapuram.csv,0,ST07,2026-10-07,PM10 missing/invalid; imputed with station median 133.70,
+data\raw\2026-10-13\ST07_Royapuram.csv,0,ST07,2026-10-13,PM10 missing/invalid; imputed with station median 133.70,
+data\raw\2026-10-29\ST07_Royapuram.csv,0,ST07,2026-10-29,PM10 missing/invalid; imputed with station median 133.70,
+data\raw\2026-10-05\ST07_Royapuram.csv,0,ST07,2026-10-05,NO2 missing/invalid; imputed with station median 48.44,
+data\raw\2026-10-27\ST07_Royapuram.csv,0,ST07,2026-10-27,NO2 missing/invalid; imputed with station median 48.44,
+data\raw\2026-10-31\ST07_Royapuram.csv,0,ST07,2026-10-31,NO2 missing/invalid; imputed with station median 48.44,
+data\raw\2026-10-02\ST07_Royapuram.csv,0,ST07,2026-10-02,temperature missing/invalid; filled with previous value (28.07 C),
+data\raw\2026-10-11\ST07_Royapuram.csv,0,ST07,2026-10-11,temperature missing/invalid; filled with previous value (35.87 C),
+data\raw\2026-10-17\ST07_Royapuram.csv,0,ST07,2026-10-17,temperature missing/invalid; filled with previous value (29.74 C),
+data\raw\2026-10-30\ST07_Royapuram.csv,0,ST07,2026-10-30,temperature missing/invalid; filled with previous value (32.50 C),
+data\raw\2026-10-31\ST07_Royapuram.csv,0,ST07,2026-10-31,temperature missing/invalid; filled with previous value (34.17 C),
+data\raw\2026-10-06\ST08_Manali.csv,0,ST08,2026-10-06,PM10 missing/invalid; imputed with station median 176.66,
+data\raw\2026-10-23\ST08_Manali.csv,0,ST08,2026-10-23,PM10 missing/invalid; imputed with station median 176.66,
+data\raw\2026-10-29\ST08_Manali.csv,0,ST08,2026-10-29,PM10 missing/invalid; imputed with station median 176.66,
+data\raw\2026-10-23\ST08_Manali.csv,0,ST08,2026-10-23,NO2 missing/invalid; imputed with station median 63.59,
+data\raw\2026-10-05\ST08_Manali.csv,0,ST08,2026-10-05,temperature missing/invalid; filled with previous value (30.73 C),
+data\raw\2026-10-06\ST08_Manali.csv,0,ST08,2026-10-06,temperature missing/invalid; filled with previous value (30.67 C),
+data\raw\2026-10-18\ST08_Manali.csv,0,ST08,2026-10-18,temperature missing/invalid; filled with previous value (31.55 C),
+data\raw\2026-10-31\ST08_Manali.csv,0,ST08,2026-10-31,temperature missing/invalid; filled with previous value (31.38 C),
+data\raw\2026-10-01\ST09_Alandur.csv,0,ST09,2026-10-01,PM10 missing/invalid; imputed with station median 109.38,
+data\raw\2026-10-03\ST09_Alandur.csv,0,ST09,2026-10-03,PM10 missing/invalid; imputed with station median 109.38,
+data\raw\2026-10-12\ST09_Alandur.csv,0,ST09,2026-10-12,PM10 missing/invalid; imputed with station median 109.38,
+data\raw\2026-10-25\ST09_Alandur.csv,0,ST09,2026-10-25,PM10 missing/invalid; imputed with station median 109.38,
+data\raw\2026-10-03\ST09_Alandur.csv,0,ST09,2026-10-03,NO2 missing/invalid; imputed with station median 39.52,
+data\raw\2026-10-21\ST09_Alandur.csv,0,ST09,2026-10-21,NO2 missing/invalid; imputed with station median 39.52,
+data\raw\2026-10-29\ST09_Alandur.csv,0,ST09,2026-10-29,NO2 missing/invalid; imputed with station median 39.52,
+data\raw\2026-10-18\ST09_Alandur.csv,0,ST09,2026-10-18,temperature missing/invalid; filled with previous value (29.84 C),
+data\raw\2026-10-05\ST10_Kodambakkam.csv,0,ST10,2026-10-05,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-08\ST10_Kodambakkam.csv,0,ST10,2026-10-08,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-10\ST10_Kodambakkam.csv,0,ST10,2026-10-10,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-11\ST10_Kodambakkam.csv,0,ST10,2026-10-11,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-20\ST10_Kodambakkam.csv,0,ST10,2026-10-20,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-25\ST10_Kodambakkam.csv,0,ST10,2026-10-25,PM10 missing/invalid; imputed with station median 130.10,
+data\raw\2026-10-31\ST10_Kodambakkam.csv,0,ST10,2026-10-31,NO2 missing/invalid; imputed with station median 47.47,
+data\raw\2026-10-11\ST10_Kodambakkam.csv,0,ST10,2026-10-11,temperature missing/invalid; filled with previous value (26.22 C),
+data\raw\2026-10-17\ST10_Kodambakkam.csv,0,ST10,2026-10-17,temperature missing/invalid; filled with previous value (35.69 C),
+data\raw\2026-10-19\ST10_Kodambakkam.csv,0,ST10,2026-10-19,temperature missing/invalid; filled with previous value (28.77 C),
+data\raw\2026-10-28\ST11_Nungambakkam.csv,0,ST11,2026-10-28,PM10 missing/invalid; imputed with station median 118.05,
+data\raw\2026-10-30\ST11_Nungambakkam.csv,0,ST11,2026-10-30,PM10 missing/invalid; imputed with station median 118.05,
+data\raw\2026-10-12\ST11_Nungambakkam.csv,0,ST11,2026-10-12,NO2 missing/invalid; imputed with station median 43.16,
+data\raw\2026-10-30\ST11_Nungambakkam.csv,0,ST11,2026-10-30,NO2 missing/invalid; imputed with station median 43.16,
+data\raw\2026-10-01\ST11_Nungambakkam.csv,0,ST11,2026-10-01,temperature missing/invalid; filled with previous value (29.37 C),
+data\raw\2026-10-13\ST11_Nungambakkam.csv,0,ST11,2026-10-13,temperature missing/invalid; filled with previous value (28.61 C),
+data\raw\2026-10-02\ST12_Thiruvottiyur.csv,0,ST12,2026-10-02,PM10 missing/invalid; imputed with station median 144.03,
+data\raw\2026-10-17\ST12_Thiruvottiyur.csv,0,ST12,2026-10-17,PM10 missing/invalid; imputed with station median 144.03,
+data\raw\2026-10-25\ST12_Thiruvottiyur.csv,0,ST12,2026-10-25,PM10 missing/invalid; imputed with station median 144.03,
+data\raw\2026-10-11\ST12_Thiruvottiyur.csv,0,ST12,2026-10-11,NO2 missing/invalid; imputed with station median 52.72,
+data\raw\2026-10-16\ST12_Thiruvottiyur.csv,0,ST12,2026-10-16,NO2 missing/invalid; imputed with station median 52.72,
+data\raw\2026-10-26\ST12_Thiruvottiyur.csv,0,ST12,2026-10-26,NO2 missing/invalid; imputed with station median 52.72,
+data\raw\2026-10-31\ST12_Thiruvottiyur.csv,0,ST12,2026-10-31,NO2 missing/invalid; imputed with station median 52.72,
+data\raw\2026-10-06\ST12_Thiruvottiyur.csv,0,ST12,2026-10-06,temperature missing/invalid; filled with previous value (29.11 C),
+data\raw\2026-10-10\ST12_Thiruvottiyur.csv,0,ST12,2026-10-10,temperature missing/invalid; filled with previous value (30.55 C),

@@ -1,0 +1,13 @@
+LEXICON/WORD-FREQUENCY SUMMARY
+- The air is not bad, but the factory smoke is not gone.
+- The staff were helpful, but the air is still polluted.
+- Smoke levels are high and the air is bad.
+- No clean air today; the road is not safe for children.
+- The street air is cleaner after the road work.
+
+FIRST-K BASELINE
+- The street air is cleaner after the road work.
+- The monitoring team gave a helpful update.
+- The bus stop is safe and the new dust screen is working.
+- The response was timely.
+- Pollution has reduced near our school.

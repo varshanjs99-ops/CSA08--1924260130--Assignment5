@@ -1,0 +1,4 @@
+Synthetic air-quality CSV dataset generated.
+Stations: 12 | Days: 31 | Hourly rows (including duplicates): 8,931
+Raw directory: data\raw
+Note: all readings are simulated; they are not official monitoring data.

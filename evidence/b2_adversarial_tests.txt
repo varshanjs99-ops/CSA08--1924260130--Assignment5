@@ -1,0 +1,13 @@
+B2 - ADVERSARIAL FILE TESTS
+missing_column.csv: REJECTED: missing columns: temperature_unit
+wrong_delimiter.csv: REJECTED: missing columns: date, hour, no2, pm10, pm25, station, station_id, temperature, temperature_unit
+utf16.csv: REJECTED: unsupported text encoding (expected UTF-8)
+empty.csv: REJECTED: empty file
+SQL injection test:
+  String concatenation rows returned: 3
+  Parameterised query rows returned: 0
+Sentiment edge cases:
+  negative | Great, another day of toxic smoke.
+  positive | The air is not bad and the roads are clean.
+  positive | The service is not not helpful.
+  negative | The air is good but the smoke is terrible.

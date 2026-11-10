@@ -1,0 +1,4 @@
+input_rows,valid_rows,csv_loop_seconds,pandas_seconds,csv_retained_result_mb,pandas_frame_mb,same_valid_count
+1000,990,0.035483,0.020046,0.031,0.128,True
+100000,98865,0.450516,0.088614,3.027,12.823,True
+1000000,988468,4.452748,2.661828,30.682,128.204,True

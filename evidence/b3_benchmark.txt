@@ -1,0 +1,7 @@
+B3 - LOOPS VS PANDAS VS SQL
+  1 stations |     8,760 rows | loops=0.009s | pandas=0.007s | SQL total=0.034s (query=0.008s) | agree=True
+ 12 stations |   105,120 rows | loops=0.116s | pandas=0.028s | SQL total=0.408s (query=0.113s) | agree=True
+120 stations | 1,051,200 rows | loops=1.147s | pandas=0.183s | SQL total=5.776s (query=1.324s) | agree=True
+Results: outputs\b3_benchmark_results.csv
+cProfile report: evidence\b3_python_profile.txt
+B4 index test database: outputs\benchmark_120.db

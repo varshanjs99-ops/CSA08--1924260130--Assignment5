@@ -1,0 +1,15 @@
+B1 - COMPLETED TODO CODE
+Before cleaning:
+station,date,pm25
+Adyar,2026-10-01,48
+Adyar,2026-10-02,NA
+Adyar,2026-10-03,
+Guindy,2026-10-01,95
+Guindy,2026-10-02,-5
+Guindy,2026-10-03,121
+Guindy,2026-10-04,1205
+
+After cleaning:
+[('Adyar', '2026-10-01', 48.0), ('Guindy', '2026-10-01', 95.0), ('Guindy', '2026-10-03', 121.0)]
+Min-max values: [0.0, 0.644, 1.0]
+Outlier >999 skipped: PASS

@@ -1,0 +1,24 @@
+B4.1 - CITIZEN COMPLAINT AI
+Complaints evaluated: 50
+Sentiment agreement with human labels: 42/50 (84.0%)
+Extractive summary (top 5 informative sentences):
+ - The air is not bad, but the factory smoke is not gone.
+ - The staff were helpful, but the air is still polluted.
+ - Smoke levels are high and the air is bad.
+ - No clean air today; the road is not safe for children.
+ - The street air is cleaner after the road work.
+First-k baseline selected 5 sentences.
+Limitations: sarcasm, mixed sentiment, domain words and implicit context may be misclassified.
+B4.2 - DATABASE INDEX
+Average monthly station query without index: 0.155406 s
+Average monthly station query with index:    0.000542 s
+Index build time: 2.698960 s
+Without-index query plan: [(3, 0, 216, 'SCAN readings')]
+With-index query plan: [(4, 0, 49, 'SEARCH readings USING INDEX idx_station_day (station_id=? AND day>? AND day<?)')]
+Observed query speed-up: 286.78x
+B4.3 - PRODUCTION DECISION
+Store raw CSVs immutably, cleaned readings and quality logs in a relational database,
+and daily/monthly aggregates in indexed summary tables. For 100 more stations at
+15-minute intervals, use batched ingestion and a composite (station_id, day) index.
+The lexicon system is a transparent triage baseline; validate a trained classifier
+on human-labelled local complaints before replacing or automating human review.

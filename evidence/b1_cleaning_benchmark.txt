@@ -1,0 +1,5 @@
+B1 - CSV LOOP VS PANDAS CLEANING
+    1,000 rows | valid=      990 | CSV=0.0355s (0.03 MB retained) | pandas=0.0200s (0.13 MB frame) | same=True
+  100,000 rows | valid=   98,865 | CSV=0.4505s (3.03 MB retained) | pandas=0.0886s (12.82 MB frame) | same=True
+1,000,000 rows | valid=  988,468 | CSV=4.4527s (30.68 MB retained) | pandas=2.6618s (128.20 MB frame) | same=True
+Results: outputs\b1_cleaning_benchmark.csv

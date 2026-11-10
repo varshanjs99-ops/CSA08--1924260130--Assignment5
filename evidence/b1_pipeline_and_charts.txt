@@ -1,0 +1,19 @@
+B1 - CLEANING PIPELINE
+Clean rows stored: 8,873
+Quality issues logged: 150
+Daily summary rows: 372
+Database: outputs\air_quality.db
+Clean CSV: outputs\cleaned_readings.csv
+Quality log: outputs\quality_log.csv
+B1.3 - SQL QUESTIONS
+Adyar October mean PM2.5: 48.01
+Daily station summaries produced: 372
+Top 3 hours by network mean PM2.5: [(8, 85.02), (18, 84.88), (19, 84.72)]
+B1.4 - VISUALISATION
+Daily trend points: 31
+Stations compared: 12
+Highest average station: Manali (100.81)
+Worst average hour: 08:00
+Charts saved: 4 PNG files in charts/
+Interpretation: daily trend shows date variation; bar chart ranks station means;
+scatter shows association, not causation; box plot compares hourly distributions.

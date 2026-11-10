@@ -1,0 +1,51 @@
+complaint_id,complaint_text,human_label
+C001,The street air is cleaner after the road work. The monitoring team gave a helpful update.,positive
+C002,The bus stop is safe and the new dust screen is working. The response was timely.,positive
+C003,Pollution has reduced near our school. The residents appreciated the clear report.,positive
+C004,The factory filter was fixed and smoke levels improved. Thank you for acting quickly.,positive
+C005,The air feels fresh today. The team resolved our complaint.,positive
+C006,The traffic change made the area quieter and cleaner. The service was helpful.,positive
+C007,The latest update is clear and useful. The station is working properly.,positive
+C008,Dust has reduced outside the clinic. The staff were polite and helpful.,positive
+C009,The road is clean and the smell is gone. The repair was effective.,positive
+C010,The air quality improved after the inspection. The action was quick and appreciated.,positive
+C011,Smoke is heavy near the factory and the air is unhealthy. The complaint is still open.,negative
+C012,The road is dirty and dust is high. The response has been slow.,negative
+C013,A broken filter releases toxic smoke. The area feels unsafe.,negative
+C014,Traffic fumes are terrible near the school. The smell is harmful.,negative
+C015,The monitoring display is broken and readings are missing. Please repair it.,negative
+C016,The waste site produces a bad smell. The service team has delayed action.,negative
+C017,Air is polluted and visibility is poor. Residents are worried about health.,negative
+C018,The street is dusty and blocked. The response from the office was rude.,negative
+C019,Smoke levels are high and the air is bad. No inspection has happened.,negative
+C020,The sensor is broken and the report is missing. The delay is unacceptable.,negative
+C021,"The road is cleaner now, but traffic smoke remains high. The team should inspect the junction.",neutral
+C022,"The staff were helpful, but the air is still polluted. We need another inspection.",neutral
+C023,"The dust screen is working, although a bad smell remains near the market. Please follow up.",neutral
+C024,"The report is clear, but PM2.5 remains high. Residents need a longer-term solution.",neutral
+C025,"The factory reduced smoke, but trucks still create dust. Both issues need attention.",neutral
+C026,"The repair was quick, but the sensor is still unreliable. Please verify the readings.",neutral
+C027,"The road is clean, although noise and traffic fumes continue. The area needs monitoring.",neutral
+C028,"The office responded quickly, but the blocked drain creates a smell. Please inspect it.",neutral
+C029,"Air is better in the morning, but smoke increases at night. More measurements are needed.",neutral
+C030,"The new bus route is helpful, but roadside dust is worse. Please review the station data.",neutral
+C031,"Great, another day of toxic smoke. Residents are not impressed.",negative
+C032,"The air is not bad, but the factory smoke is not gone. Please investigate.",negative
+C033,"The service is not not helpful, but the readings remain confusing. We need clarification.",neutral
+C034,No clean air today; the road is not safe for children. Please act.,negative
+C035,"Wonderful, the sensor broke again. This is not a good update.",negative
+C036,"The report says no problem, yet the smell is terrible. Residents disagree.",negative
+C037,"It is not uncommon to see dust here, and the road is dirty again. Please inspect.",negative
+C038,"The response was not slow, but pollution is still high. More work is required.",neutral
+C039,"Never have we had such clean air, but today's smoke is worse. Please check.",negative
+C040,"The station is not broken, but its readings are missing. Please verify the sensor.",neutral
+C041,The street air is cleaner after the road work. The monitoring team gave a helpful update.,positive
+C042,The bus stop is safe and the new dust screen is working. The response was timely.,positive
+C043,Pollution has reduced near our school. The residents appreciated the clear report.,positive
+C044,The factory filter was fixed and smoke levels improved. Thank you for acting quickly.,positive
+C045,The air feels fresh today. The team resolved our complaint.,positive
+C046,The traffic change made the area quieter and cleaner. The service was helpful.,positive
+C047,The latest update is clear and useful. The station is working properly.,positive
+C048,Dust has reduced outside the clinic. The staff were polite and helpful.,positive
+C049,The road is clean and the smell is gone. The repair was effective.,positive
+C050,The air quality improved after the inspection. The action was quick and appreciated.,positive
